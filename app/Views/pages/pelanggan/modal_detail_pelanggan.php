@@ -23,7 +23,7 @@
                 </div>
                 <div class="form-group mb-2">
                     <label for="jenis_kelamin">Jenis Kelamin</label>
-                    <select class="form-select form-select form-input-dark bg-dark" aria-label="Large select example" id="jenis_kelamin" name="jenis_kelamin" required readonly>
+                    <select class="form-select form-select form-input-dark bg-dark" aria-label="Large select example" id="jenis_kelamin" name="jenis_kelamin" required disabled>
                         <option value="">Pilih Jenis Kelamin</option>
                         <option value="PRIA">PRIA</option>
                         <option value="WANITA">WANITA</option>
